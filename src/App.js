@@ -262,13 +262,13 @@ function WarungNasgor() {
                         <span className="text-white font-bold text-xl">WN</span>
                       </div>
                       <h3 className="text-gray-800 font-bold">Warung Nasgor</h3>
-                      <p className="text-gray-600 text-sm">Est. 2020</p>
+                      <p className="text-gray-600 text-sm">Est. 2025</p>
                     </div>
                     <div className="text-left space-y-2 text-xs text-gray-700">
                       <p>📍 Jakarta, Indonesia</p>
                       <p>👨‍🍳 Chef Berpengalaman</p>
-                      <p>🏆 Rating 4.8/5</p>
-                      <p>🍚 1000+ Porsi Terjual</p>
+                      <p>🏆 Rating 4.5/5</p>
+                      <p>🍚 100+ Porsi Terjual</p>
                     </div>
                   </div>
                 </div>
